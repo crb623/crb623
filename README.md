@@ -5,13 +5,13 @@ I'm pursuing a degree in Computer Science and Economic Theory in NYC. My academi
 
 📫 **Hobbies:**  
 In my spare time, I like to:
-- Explore new technologies and programming languages
-- Read about the latest trends in artificial intelligence and machine learning
-- Travel and experience new cultures
-- Foster cats 🐱 
+- Explore new technologies and programming languages 👩‍💻 
+- Travel and experience new cultures 🥘 
+- Foster cats 🐱
+- Garden (tomato plants are my favorite to grow)🪴
 
 🚀 **I am currently working on:**  
-Synaptrix Labs 🧠 - pioneering accessible technologies to empower individuals with paralysis to live more independently
+[Synaptrix Labs](https://www.synaptrix-labs.com/) 🧠 - pioneering accessible technologies to empower individuals with paralysis to live more independently
 
 📫 **Contact me:**  
 - [Email](mailto:crb623@nyu.edu)

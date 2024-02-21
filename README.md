@@ -1,7 +1,7 @@
 ### Hello, I'm Christina 👋
 
 ✨ **About Me** ✨  
-I'm pursuing studies in Computer Science and Economic Theory in NYC. My academic journey has led me to explore the intersections of technology and economics, aiming to understand how digital innovations can drive economic growth and improve societal welfare. I thrive on challenges and am always on the lookout for new projects that push the boundaries of my knowledge and skills.
+I'm pursuing a degree in Computer Science and Economic Theory in NYC. My academic journey has led me to explore the intersections of technology and economics, aiming to understand how digital innovations can drive economic growth and improve societal welfare. I thrive on challenges and am always on the lookout for new projects that push the boundaries of my knowledge and skills.
 
 📫 **Hobbies:**  
 In my spare time, I like to:
@@ -14,8 +14,8 @@ In my spare time, I like to:
 Synaptrix Labs 🧠 - pioneering accessible technologies to empower individuals with paralysis to live more independently
 
 📫 **Contact me:**  
-- Email: [crb623@nyu.edu](mailto:crb623@nyu.edu)
-- LinkedIn: [linkedin.com/in/christina-borao](http://linkedin.com/in/christina-borao)
+- [Email](mailto:crb623@nyu.edu)
+- [LinkedIn](http://linkedin.com/in/christina-borao)
 
 
 🔭 **Languages, Frameworks, and Tools:**  

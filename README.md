@@ -7,8 +7,8 @@ I'm pursuing a degree in Computer Science and Economic Theory in NYC. My academi
 In my spare time, I like to:
 - Explore new technologies and programming languages 👩‍💻 
 - Travel and experience new cultures 🥘 
-- Foster cats 🐱
-- Garden (tomato plants are my favorite to grow)🪴
+- Foster cats from the [New York City Cat Coalition](https://www.nycatcoal.org/) 🐱
+- Garden (tomato plants are my favorite to grow) 🪴
 
 🚀 **I am currently working on:**  
 [Synaptrix Labs](https://www.synaptrix-labs.com/) 🧠 - pioneering accessible technologies to empower individuals with paralysis to live more independently

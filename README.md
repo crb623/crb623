@@ -20,7 +20,7 @@ In my spare time, I like to:
 
 🔭 **Languages, Frameworks, and Tools:**  
 - **Languages:** Python, SQL, Java, JavaScript, C, R, LaTeX
-- **Frameworks:** React, Node.js
+- **Frameworks:** React, Node.js, Flask
 - **Tools:** Git, Docker, VS Code
 
 Feel free to reach out if you have any questions or want to collaborate on a project!

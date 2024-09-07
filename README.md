@@ -1,7 +1,7 @@
 ### Hello, I'm Christina 👋
 
 ✨ **About Me** ✨  
-I have degrees in Computer Science and Economic Theory from NYU. My academic journey has led me to explore the intersections of technology and economics, aiming to understand how digital innovations can drive economic growth and improve societal welfare. I thrive on challenges and am always on the lookout for new projects that push the boundaries of my knowledge and skills.
+I have a Bachelors in Computer Science and Economic Theory from NYU. My academic journey has led me to explore the intersections of technology and economics, aiming to understand how digital innovations can drive economic growth and improve societal welfare. I thrive on challenges and am always on the lookout for new projects that push the boundaries of my knowledge and skills.
 
 📫 **Hobbies:**  
 In my spare time, I like to:
